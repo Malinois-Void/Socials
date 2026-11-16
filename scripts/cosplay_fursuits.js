@@ -8,7 +8,7 @@ const costumes = [
         title: "Fenrir",
         src: "",
         details: "Wolf",
-        description: "partial second suit" }
+        description: "Partial second suit" }
 ];
 
 renderSections(document.getElementById("costumes"), costumes, {
